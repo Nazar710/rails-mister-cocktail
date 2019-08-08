@@ -8,7 +8,6 @@ environment.plugins.prepend('Provide',
     Popper: ['popper.js', 'default']
   })
 )
-const { environment } = require('@rails/webpacker')
 
 module.exports = environment
 
